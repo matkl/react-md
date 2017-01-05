@@ -62,7 +62,7 @@ export default class MyAwesomeComponent extends Component {
 ```scss
 /* _styles.scss */
 
-@import '~react-md/scss/react-md';
+@import '~react-md/src/scss/react-md';
 ```
 
 
